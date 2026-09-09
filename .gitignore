@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated PDFs
+*.pdf
+
+# Backup files
+* - Copy.py
+* - Copy.js
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Virtual Environment
+venv/
+.env
