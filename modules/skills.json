@@ -1,0 +1,274 @@
+{
+  "tableau": [
+    "tableau",
+    "tableau desktop",
+    "tableau prep",
+    "tableau public",
+    "tableau dashboard",
+    "tableau dashboards",
+    "tableau developer",
+    "tableau visualization",
+    "tableau reporting"
+  ],
+
+  "power bi": [
+    "power bi",
+    "powerbi",
+    "power bi desktop",
+    "power query",
+    "power pivot",
+    "dax",
+    "power bi report",
+    "power bi reports",
+    "power bi dashboard",
+    "power bi dashboards",
+    "business intelligence",
+    "bi reporting",
+    "reporting dashboard"
+  ],
+
+  "sql": [
+    "sql",
+    "sql query",
+    "sql queries",
+    "advanced sql",
+    "join",
+    "joins",
+    "inner join",
+    "left join",
+    "right join",
+    "full join",
+    "outer join",
+    "cte",
+    "common table expression",
+    "window function",
+    "window functions",
+    "rank",
+    "dense rank",
+    "row number",
+    "group by",
+    "order by",
+    "having",
+    "union",
+    "union all",
+    "stored procedure",
+    "stored procedures",
+    "query optimization",
+    "sql server",
+    "postgresql",
+    "mysql",
+    "oracle sql"
+  ],
+
+  "python": [
+    "python",
+    "python scripting",
+    "python automation",
+    "automation script",
+    "pandas",
+    "numpy",
+    "python pandas"
+  ],
+
+  "excel": [
+    "excel",
+    "microsoft excel",
+    "advanced excel",
+    "pivot table",
+    "pivot tables",
+    "vlookup",
+    "xlookup",
+    "lookup",
+    "spreadsheet"
+  ],
+
+  "alteryx": [
+    "alteryx",
+    "alteryx designer",
+    "alteryx workflow"
+  ],
+
+  "power automate": [
+    "power automate",
+    "powerautomate",
+    "power automate flow",
+    "workflow automation",
+    "automation flow",
+    "flow"
+  ],
+
+  "snowflake": [
+    "snowflake",
+    "snowflake cloud",
+    "snowflake warehouse"
+  ],
+
+  "etl": [
+    "etl",
+    "elt",
+    "extract transform load",
+    "extract transform",
+    "data transformation",
+    "data integration",
+    "etl workflow",
+    "etl pipelines",
+    "pipeline",
+    "pipelines",
+    "pipeline automation",
+    "workflow"
+  ],
+
+  "dbt": [
+    "dbt",
+    "data build tool",
+    "dbt cloud"
+  ],
+
+  "data modeling": [
+    "data modeling",
+    "data model",
+    "data models",
+    "dimensional modeling",
+    "star schema",
+    "snowflake schema",
+    "fact table",
+    "dimension table"
+  ],
+
+  "data warehousing": [
+    "data warehouse",
+    "data warehouses",
+    "data warehousing",
+    "warehouse",
+    "warehouse concepts",
+    "data mart"
+  ],
+
+  "dashboard development": [
+    "dashboard",
+    "dashboards",
+    "dashboard development",
+    "report development",
+    "report creation",
+    "reporting",
+    "visualization",
+    "visualizations",
+    "interactive dashboard",
+    "interactive dashboards"
+  ],
+
+  "stakeholder collaboration": [
+    "stakeholder",
+    "stakeholders",
+    "stakeholder reporting",
+    "business users",
+    "client communication",
+    "requirement gathering",
+    "requirements gathering",
+    "cross functional",
+    "cross-functional"
+  ],
+
+  "data validation": [
+    "data validation",
+    "validation",
+    "qa",
+    "quality assurance",
+    "data quality",
+    "data verification"
+  ],
+
+  "performance optimization": [
+    "performance optimization",
+    "performance tuning",
+    "optimization",
+    "query optimization",
+    "execution time",
+    "performance improvement"
+  ],
+
+  "large datasets": [
+    "large dataset",
+    "large datasets",
+    "high volume data",
+    "big data",
+    "millions of records"
+  ],
+
+  "troubleshooting": [
+    "troubleshooting",
+    "debugging",
+    "issue resolution",
+    "root cause analysis",
+    "problem diagnosis"
+  ],
+
+  "generative ai": [
+    "generative ai",
+    "gen ai",
+    "llm",
+    "large language model",
+    "prompt engineering"
+  ],
+
+  "aws": [
+    "aws",
+    "amazon web services",
+    "s3",
+    "redshift"
+  ],
+
+  "azure": [
+    "azure",
+    "microsoft azure",
+    "azure data factory",
+    "adf"
+  ],
+
+  "gcp": [
+    "gcp",
+    "google cloud",
+    "bigquery"
+  ],
+
+  "spark": [
+    "apache spark",
+    "spark",
+    "pyspark"
+  ],
+
+  "airflow": [
+    "apache airflow",
+    "airflow"
+  ],
+
+  "kafka": [
+    "kafka",
+    "apache kafka"
+  ],
+
+  "git": [
+    "git",
+    "github",
+    "version control"
+  ],
+
+  "api": [
+    "api",
+    "rest api",
+    "restful api",
+    "api integration"
+  ],
+
+  "problem solving": [
+    "problem solving",
+    "analytical thinking",
+    "critical thinking"
+  ],
+
+  "communication": [
+    "communication",
+    "presentation",
+    "documentation"
+  ]
+}
